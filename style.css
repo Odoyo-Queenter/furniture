@@ -99,6 +99,7 @@ header{
     height: 400px;
     overflow: hidden;
     border-radius: 44px 4px 0 0;
+    margin-top: 3%;
 }
 .box .box-img img{
     width: 100%;
